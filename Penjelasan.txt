@@ -1,0 +1,2 @@
+Menurut saya dalam pemograman, polimorphisme dapat diartikan sebagai modul yang memiliki nama sama,
+namun memiliki parameter yang berbeda, sehingga listing code implementasinya juga berbeda.
